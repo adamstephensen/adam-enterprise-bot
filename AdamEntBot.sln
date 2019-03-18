@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdamEntBot", "AdamEntBot\AdamEntBot\AdamEntBot.csproj", "{96A2B4EA-8C9C-41D8-B0E2-301814E9C878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdamEntBot.Tests", "AdamEntBot\AdamEntBot.Tests\AdamEntBot.Tests.csproj", "{176339D4-F67E-4A5A-927D-B58DE79E70CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A2B4EA-8C9C-41D8-B0E2-301814E9C878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A2B4EA-8C9C-41D8-B0E2-301814E9C878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A2B4EA-8C9C-41D8-B0E2-301814E9C878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A2B4EA-8C9C-41D8-B0E2-301814E9C878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{176339D4-F67E-4A5A-927D-B58DE79E70CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176339D4-F67E-4A5A-927D-B58DE79E70CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176339D4-F67E-4A5A-927D-B58DE79E70CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176339D4-F67E-4A5A-927D-B58DE79E70CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B89530C-470F-4162-B525-82106763091B}
+	EndGlobalSection
+EndGlobal
